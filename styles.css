@@ -1,0 +1,27 @@
+#title {
+  font-size: 60px;
+  background-color: red;
+  color:white;
+  border-bottom: 3px solid white;
+  font-family: Arial;
+  margin:0px;
+}
+.time-to-read-view {
+  width:100%;
+  max-width: 120px;
+  height:100px;
+  font-size: 20px;
+  font-family: Arial;
+  display:flex;
+  flex-wrap: wrap;
+}
+
+body {
+  margin:0px;
+}
+
+.lyrics {
+  font-size: 20px;
+  font-family: Arial;
+  margin:0 120px 0 120px;
+}
